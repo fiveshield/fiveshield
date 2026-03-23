@@ -1,6 +1,6 @@
 # fiveshield – Targeted Anti‑DDoS Protection for FiveM & RedM Servers
 
-**Website:** [https://fiveshield.co](https://fiveshield.co)
+**Website:** [https://fiveshield.co/en](https://fiveshield.co/en)
 
 **Discord:** [https://discord.fiveshield.co](https://discord.fiveshield.co)
 
@@ -53,7 +53,7 @@ fiveshield offers specialized, low-latency DDoS protection tailored specifically
 
 ## 📞 Ready to Protect Your Server?
 
-Visit **[fiveshield.co](https://fiveshield.co)** to:
+Visit **[fiveshield.co](https://fiveshield.co/en)** to:
 
 * Explore the proxy-per-player architecture
 * Access performance benchmarks and deployment guides
