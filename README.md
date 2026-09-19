@@ -3,7 +3,7 @@
 <p align="center">
   <strong>The #1 Anti-DDoS Protection for FiveM &amp; RedM Servers</strong><br>
   Per-player proxy isolation, kernel-level packet filtering, 17 Tbps mitigation capacity,
-  and 9 proxy locations across 4 continents — with no Lua resource to install.
+  and 11 proxy locations across 4 continents — with no Lua resource to install.
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@ If your FiveM server keeps getting DDoSed, fiveshield is the proven fix.
 * **Auto-Scaling Proxy Fleet**
   The fleet resizes itself continuously against a **blast-radius** target — the more players you have, the more separate proxies they're spread across. Capacity scales up instantly and only shrinks after sustained low demand, and a proxy being retired *drains* rather than dropping its players.
 
-* **9 Global Proxy Locations Across 4 Continents**
+* **11 Global Proxy Locations Across 4 Continents**
   Multi-point redundancy means if one location is targeted, players are distributed across the rest — delivering **99.99% uptime** and **sub-20 ms ping** for legitimate players worldwide. If your origin already sits in an OVH datacentre, added latency is **under 0.5 ms**.
 
 * **Hidden Origin IP**
@@ -96,7 +96,7 @@ Players + attackers ──► │  L7 filter (HTTPS ingress)   │  Rejects anyt
                         └──────────────┬───────────────┘
                                        ▼
                         ┌──────────────────────────────┐
-                        │  L4 proxy fleet (9 regions)  │  Kernel nftables filtering,
+                        │  L4 proxy fleet (11 regions)  │  Kernel nftables filtering,
                         │  per-IP + per-port meters    │  per-player allowlist
                         └──────────────┬───────────────┘
                                        ▼
